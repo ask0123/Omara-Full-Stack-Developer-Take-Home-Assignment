@@ -1,4 +1,4 @@
-![irtual scrolling table with cursor-based pagination](image-url)
+![Virtual scrolling table with cursor-based pagination](https://github.com/ask0123/Omara-Full-Stack-Developer-Take-Home-Assignment/blob/316a118e54950a71fc6836d690867adce5314a1f/project/image.jpg)
 
 
 # Virtual Scrolling Table with Cursor-based Pagination
