@@ -1,3 +1,6 @@
+![irtual scrolling table with cursor-based pagination](image-url)
+
+
 # Virtual Scrolling Table with Cursor-based Pagination
 
 A high-performance full-stack application demonstrating virtual scrolling with cursor-based pagination, handling 10,000 records efficiently.
